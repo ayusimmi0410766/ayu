@@ -1,3 +1,4 @@
 # ayu
 love
 food
+cow
